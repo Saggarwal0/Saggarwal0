@@ -1,66 +1,63 @@
 <div align="center">
 
-<img src="assets/header-stars.gif" width="100%" alt="dreamy header divider">
+<h2>💜 Hello hello 💙</h2>
+<p>✨ I'm <b>Simran Aggarwal</b> — a creative technologist, artist, and lifelong dreamer ✨<br>
+Blending code, color, and imagination to create little digital worlds 🌙</p>
 
-# 💜 Hello hello 💙  
-✨ I'm **Simran Aggarwal** — a creative technologist, artist, and lifelong dreamer ✨  
-Blending **code, color, and imagination** to create little digital worlds 🌙  
+<hr style="border: none; height: 2px; background: linear-gradient(90deg, #c8b6ff, #d4a7ff, #b3e0ff); width: 60%;">
 
-<img src="assets/lilac-divider.png" width="60%" alt="divider">
+<h3>🎓 About Me</h3>
+<p>
+🎓 <b>A.S. Computer Programming & Analysis</b> @ Valencia College<br>
+☁️ Aspiring Cloud Developer • Creative Coder • Art Lover<br>
+🎨 Passionate about Web Design, Game Art, and UI Magic
+</p>
 
-<div align="center">
+<h3>🧩 Tech & Tools</h3>
+<p>
+💻 <b>Languages:</b> Python • JavaScript • HTML/CSS • C++<br>
+☁️ <b>Tools:</b> AWS • GitHub • VS Code • Linux • VirtualBox<br>
+🌸 <b>Interests:</b> Art • Game Design • Cloud Systems • Cozy UI/UX • Soft Aesthetics
+</p>
 
-# 💜 Hello hello 💙  
-✨ I'm **Simran Aggarwal** — a creative technologist, artist, and lifelong dreamer ✨  
-Blending **code, color, and imagination** to create little digital worlds 🌙  
+<hr style="border: none; height: 2px; background: linear-gradient(90deg, #b3e0ff, #d4a7ff, #c8b6ff); width: 60%;">
 
-<img src="https://media.tenor.com/QtQwH4IG7o4AAAAM/anime-stars.gif" width="80%">
+<h3>🎨 My Art</h3>
+<p>
+<a href="https://github.com/user-attachments/assets/15fb4a03-0fca-4c6f-af03-49540f84260d" target="_blank">
+  <img src="https://github.com/user-attachments/assets/15fb4a03-0fca-4c6f-af03-49540f84260d" width="400" alt="Simran's dreamy art">
+</a><br>
+🌷 <i>“Code is just another way to paint.”</i> 🌷
+</p>
 
-🎓 **A.S. Computer Programming & Analysis** @ [Valencia College](https://valenciacollege.edu)  
-☁️ Aspiring **Cloud Developer** + **Creative Coder**  
-🎨 Passionate about **Web Design**, **Game Art**, and **UI Magic**
+<h3>🐶 Meet My Pup!</h3>
+<p>
+<a href="https://github.com/user-attachments/assets/2e960f4a-fcdc-423b-bf87-94b43cd6effd" target="_blank">
+  <img src="https://github.com/user-attachments/assets/2e960f4a-fcdc-423b-bf87-94b43cd6effd" width="400" alt="My dog video or gif">
+</a><br>
+🐾 <i>My little companion and coding sidekick</i> 🐾
+</p>
 
-🧩 **Languages:** Python • JavaScript • HTML/CSS • C++  
-☁️ **Tech & Tools:** AWS • GitHub • VS Code • Linux • VirtualBox  
-💭 **Interests:** Art • Game Design • Cloud Systems • Cozy UI/UX • Soft Aesthetics  
+<hr style="border: none; height: 2px; background: linear-gradient(90deg, #c8b6ff, #b3e0ff, #d4a7ff); width: 60%;">
 
-<img src="https://media.tenor.com/FABvVQLTxw8AAAAM/anime-clouds.gif" width="80%">
+<h3>✨ Current Projects</h3>
+<p>
+🌙 <b>Lavender Labyrinth</b> — a soft, pastel maze game built with HTML, CSS, and JavaScript<br>
+☁️ <b>AWS S3 Cost Calculator</b> — Python-based cloud storage estimator<br>
+🎨 <b>Portfolio Website</b> — blending art, code, and creative storytelling
+</p>
 
-<img src="assets/myart.png" width="280px" alt="Simran's art" style="border-radius: 12px; box-shadow: 0 0 15px #d7caff;">  
+<h3>💫 Fun Facts</h3>
+<p>
+💜 Favorite colors: Periwinkle, Lilac, and Cloud Blue<br>
+🎧 I code best with lofi & Ghibli soundtracks<br>
+🪴 I garden, paint, and write stories when I’m not debugging<br>
+☕ Always fueled by matcha or chai
+</p>
 
-🌷 <b>“Code is just another way to paint.”</b> 🌷  
+<hr style="border: none; height: 2px; background: linear-gradient(90deg, #b3e0ff, #d4a7ff, #c8b6ff); width: 60%;">
 
-<img src="https://media.tenor.com/qOc8k-kCNv8AAAAM/anime-girl-blink.gif" width="80%">
-
-### 🐶 Meet My Dog!
-<video src="assets/mypup.mov" width="300" autoplay loop muted playsinline></video>  
-🐾 <b>My little companion and coding sidekick</b> 🐾  
-
-<img src="https://media.tenor.com/jv8URWnMPwsAAAAM/sakura-anime.gif" width="80%">
-
-### ✨ Current Projects  
-🌙 **Lavender Labyrinth** — a soft, pastel maze game built with HTML, CSS, and JavaScript  
-☁️ **AWS S3 Cost Calculator** — a Python-based cloud storage estimator  
-🎨 **Portfolio Website** — combining my art, projects, and creative experiments  
-
-<img src="https://media.tenor.com/qVek5oD-1q4AAAAM/anime-night-sky.gif" width="80%">
-
-### 💫 Fun Facts  
-💜 My favorite colors are **periwinkle, lilac, and cloud blue**  
-🎧 I code best with **lofi & Ghibli soundtracks**  
-🪴 I garden, paint, and write stories when I’m not debugging  
-☕ Always fueled by **matcha or chai**
-
-
-### 🌐 Connect with Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8A84E2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simran-aggarwal)  
-[![GitHub](https://img.shields.io/badge/GitHub-B6B3FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saggarwal0)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Lilac?style=for-the-badge&logo=artstation&logoColor=white)](#)
-
-<img src="https://i.imgur.com/fYbWZqd.gif" width="120px" alt="cat gif"><br>
-🌙 <i>“Keep dreaming, keep creating.”</i> 🌙  
-
+<p><i>🌙 “Keep dreaming, keep creating.” 🌙</i></p>
 
 </div>
 
