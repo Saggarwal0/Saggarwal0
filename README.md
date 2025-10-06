@@ -1,63 +1,76 @@
-<div align="center">
+<div align="center" style="background-color:#f5f3ff; padding:30px; border-radius:20px; font-family:'Segoe UI', sans-serif; line-height:1.6;">
 
 <h2>💜 Hello hello 💙</h2>
-<p>✨ I'm <b>Simran Aggarwal</b> — a creative technologist, artist, and lifelong dreamer ✨<br>
-Blending code, color, and imagination to create little digital worlds 🌙</p>
 
-<hr style="border: none; height: 2px; background: linear-gradient(90deg, #c8b6ff, #d4a7ff, #b3e0ff); width: 60%;">
+<p>✨ I'm <b>Simran Aggarwal</b> — a <b>Python Developer</b>, <b>Cloud Enthusiast</b>, and <b>creative technologist</b> ✨<br>
+Blending <b>code, creativity, and curiosity</b> to design solutions that are as efficient as they are elegant 🌙</p>
+
+<hr style="border:none; height:2px; background:linear-gradient(90deg, #c8b6ff, #d4a7ff, #b3e0ff); width:70%;">
 
 <h3>🎓 About Me</h3>
 <p>
-🎓 <b>A.S. Computer Programming & Analysis</b> @ Valencia College<br>
-☁️ Aspiring Cloud Developer • Creative Coder • Art Lover<br>
-🎨 Passionate about Web Design, Game Art, and UI Magic
+🎓 <b>A.S. Computer Programming & Analysis</b> @ Valencia College <br>
+☁️ Aspiring <b>Cloud & Software Engineer</b> • <b>Python Developer</b> • <b>Automation Enthusiast</b> <br>
+I’m passionate about building secure, scalable systems — and using <b>Python</b> to make cloud infrastructure smarter, faster, and more fun ⚙️  
 </p>
 
-<h3>🧩 Tech & Tools</h3>
 <p>
-💻 <b>Languages:</b> Python • JavaScript • HTML/CSS • C++<br>
-☁️ <b>Tools:</b> AWS • GitHub • VS Code • Linux • VirtualBox<br>
-🌸 <b>Interests:</b> Art • Game Design • Cloud Systems • Cozy UI/UX • Soft Aesthetics
+I love working with <b>AWS</b>, <b>APIs</b>, and <b>automation frameworks</b>, transforming raw data and infrastructure into seamless applications.  
+My focus: <b>Python scripting, DevOps automation, and backend software development</b> — the glue that powers everything behind the scenes ☁️  
 </p>
 
-<hr style="border: none; height: 2px; background: linear-gradient(90deg, #b3e0ff, #d4a7ff, #c8b6ff); width: 60%;">
-
-<h3>🎨 My Art</h3>
 <p>
-<a href="https://github.com/user-attachments/assets/15fb4a03-0fca-4c6f-af03-49540f84260d" target="_blank">
-  <img src="https://github.com/user-attachments/assets/15fb4a03-0fca-4c6f-af03-49540f84260d" width="400" alt="Simran's dreamy art">
-</a><br>
-🌷 <i>“Code is just another way to paint.”</i> 🌷
+When I’m not designing code pipelines, you’ll find me <b>sketching digital art</b>, <b>watching anime</b>, or exploring cozy video game worlds 🎨🎮  
+And right beside me? 🐾 My little pup — my emotional support debugger and late-night coding buddy 💕  
 </p>
 
-<h3>🐶 Meet My Pup!</h3>
+<hr style="border:none; height:2px; background:linear-gradient(90deg, #b3e0ff, #c8b6ff, #d4a7ff); width:70%;">
+
+<h3>🧩 Tech Stack</h3>
 <p>
-<a href="https://github.com/user-attachments/assets/2e960f4a-fcdc-423b-bf87-94b43cd6effd" target="_blank">
-  <img src="https://github.com/user-attachments/assets/2e960f4a-fcdc-423b-bf87-94b43cd6effd" width="400" alt="My dog video or gif">
-</a><br>
-🐾 <i>My little companion and coding sidekick</i> 🐾
+🐍 <b>Languages:</b> Python • JavaScript • C++ <br>
+☁️ <b>Cloud & DevOps:</b> AWS • Terraform • Docker • Linux • CI/CD Pipelines <br>
+🧠 <b>Frameworks & Tools:</b> Flask • FastAPI • GitHub Actions • VS Code • Boto3 <br>
+💾 <b>Other:</b> SQL • REST APIs • Scripting • Monitoring (CloudWatch)
 </p>
 
-<hr style="border: none; height: 2px; background: linear-gradient(90deg, #c8b6ff, #b3e0ff, #d4a7ff); width: 60%;">
+<hr style="border:none; height:2px; background:linear-gradient(90deg, #d4a7ff, #b3e0ff, #c8b6ff); width:70%;">
 
-<h3>✨ Current Projects</h3>
+<h3>☁️ Featured Projects</h3>
+
+<p align="center">
+🚀 <b>Cloud Portfolio Generator</b> — Python-based tool that auto-deploys static portfolio sites using <b>S3</b> and <b>CloudFront</b>. <br><br>
+🧠 <b>Python Automation Suite</b> — Collection of Boto3 scripts that manage <b>IAM roles</b>, <b>EC2 backups</b>, and <b>cloud cost reports</b>. <br><br>
+📊 <b>Serverless Log Analyzer</b> — Processes AWS log data via <b>Lambda</b> + <b>DynamoDB</b> and outputs visual summaries with <b>Matplotlib</b>. <br><br>
+⚙️ <b>Flask Cloud API</b> — RESTful API that interacts with <b>S3</b> buckets and <b>EC2</b> resources using secure authentication. <br><br>
+</p>
+
+<hr style="border:none; height:2px; background:linear-gradient(90deg, #c8b6ff, #d4a7ff, #b3e0ff); width:70%;">
+
+<h3>🎨 &nbsp; Creative Side</h3>
 <p>
-🌙 <b>Lavender Labyrinth</b> — a soft, pastel maze game built with HTML, CSS, and JavaScript<br>
-☁️ <b>AWS S3 Cost Calculator</b> — Python-based cloud storage estimator<br>
-🎨 <b>Portfolio Website</b> — blending art, code, and creative storytelling
+I love expressing creativity through <b>digital art</b> and <b>anime-inspired UI designs</b>.  
+My dream is to someday build interactive worlds that blend <b>art, storytelling, and technology</b> — all powered by cloud systems ✨  
 </p>
+
+<h3>🐶 &nbsp; Meet My Pup!</h3>
+<p>
+🐾 My coding sidekick, creative muse, and professional nap-timer 💕  
+She ensures all projects pass the “snack break” test ☕🌿  
+</p>
+
+<hr style="border:none; height:2px; background:linear-gradient(90deg, #b3e0ff, #c8b6ff, #d4a7ff); width:70%;">
 
 <h3>💫 Fun Facts</h3>
 <p>
-💜 Favorite colors: Periwinkle, Lilac, and Cloud Blue<br>
-🎧 I code best with lofi & Ghibli soundtracks<br>
-🪴 I garden, paint, and write stories when I’m not debugging<br>
-☕ Always fueled by matcha or chai
+💜 Favorite colors: Periwinkle • Lilac • Cloud Blue <br>
+🎧 I code best with lofi beats and Ghibli soundtracks <br>
+🎮 Favorite games: Genshin Impact • Stardew Valley • Journey <br>
+☕ Matcha > Coffee (fight me 😋)
 </p>
 
-<hr style="border: none; height: 2px; background: linear-gradient(90deg, #b3e0ff, #d4a7ff, #c8b6ff); width: 60%;">
+<hr style="border:none; height:2px; background:linear-gradient(90deg, #c8b6ff, #d4a7ff, #b3e0ff); width:70%;">
 
-<p><i>🌙 “Keep dreaming, keep creating.” 🌙</i></p>
+<p><i>🌙 “Keep dreaming, keep building, and let your code reach the clouds.” 🌙</i></p>
 
 </div>
-
