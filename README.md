@@ -18,10 +18,21 @@ My focus areas include **Python scripting**, **DevOps automation**, and **backen
 ---
 
 ## 🧩 Tech Stack  
-🐍 **Languages:** Python • JavaScript • C++  
-☁️ **Cloud & DevOps:** AWS • Terraform • Docker • Linux • CI/CD Pipelines  
-🧠 **Frameworks & Tools:** Flask • FastAPI • GitHub Actions • VS Code • Boto3  
-💾 **Other:** SQL • REST APIs • Scripting • Monitoring (CloudWatch)  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=swagger&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/AWS%20CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
@@ -51,11 +62,21 @@ My dream is to someday have my own **art gallery** and **art print business** as
 ---
 
 ## 🌐 Connect With Me  
-💼 [**LinkedIn**](https://www.linkedin.com/in/simranagg)  
-📸 [**Instagram**](https://www.instagram.com/lost_remembrance)  
+<a href="https://www.linkedin.com/in/simranagg"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
+<a href="#"><img src="https://img.shields.io/badge/Grow-6DB33F?style=for-the-badge&logo=sap&logoColor=white"></a>  
+<a href="https://www.instagram.com/lost_remembrance"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>  
+
+---
+
+## 📊 GitHub Stats  
+
+![Simran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saggarwal0&show_icons=true&theme=tokyonight&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saggarwal0&layout=compact&theme=tokyonight&hide_border=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saggarwal0&theme=tokyonight&hide_border=true)
 
 ---
 
 ⭐️ *“Code with creativity. Build with purpose.”* 🌙  
 
 </div>
+
