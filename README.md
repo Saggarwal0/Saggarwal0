@@ -1,76 +1,61 @@
-<div align="center" style="background-color:#f5f3ff; padding:30px; border-radius:20px; font-family:'Segoe UI', sans-serif; line-height:1.6;">
+<div align="center">
 
-<h2>💜 Hello hello 💙</h2>
+# 💜 Hello hello 💙  
+✨ I'm **Simran Aggarwal** — a **Python Developer**, **Cloud Enthusiast**, and **Creative Technologist** ✨  
+Blending code, creativity, and curiosity to design solutions that are as efficient as they are effective 🌙  
 
-<p>✨ I'm <b>Simran Aggarwal</b> — a <b>Python Developer</b>, <b>Cloud Enthusiast</b>, and <b>creative technologist</b> ✨<br>
-Blending <b>code, creativity, and curiosity</b> to design solutions that are as efficient as they are elegant 🌙</p>
+---
 
-<hr style="border:none; height:2px; background:linear-gradient(90deg, #c8b6ff, #d4a7ff, #b3e0ff); width:70%;">
+## 🎓 About Me  
+🎓 **A.S. in Computer Programming & Analysis** @ *Valencia College*  
+🎓 **B.A.S. in Computing Technology & Software Development** *(in progress)*  
 
-<h3>🎓 About Me</h3>
-<p>
-🎓 <b>A.S. Computer Programming & Analysis</b> @ Valencia College <br>
-☁️ Aspiring <b>Cloud & Software Engineer</b> • <b>Python Developer</b> • <b>Automation Enthusiast</b> <br>
-I’m passionate about building secure, scalable systems — and using <b>Python</b> to make cloud infrastructure smarter, faster, and more fun ⚙️  
-</p>
+☁️ **Aspiring Cloud & Software Engineer • Python Developer • Automation Enthusiast**  
 
-<p>
-I love working with <b>AWS</b>, <b>APIs</b>, and <b>automation frameworks</b>, transforming raw data and infrastructure into seamless applications.  
-My focus: <b>Python scripting, DevOps automation, and backend software development</b> — the glue that powers everything behind the scenes ☁️  
-</p>
+I’m passionate about building secure, scalable systems and using **Python** to make cloud infrastructure smarter, faster, and more fun ⚙️  
+My focus areas include **Python scripting**, **DevOps automation**, and **backend software development**.  
 
-<p>
-When I’m not designing code pipelines, you’ll find me <b>sketching digital art</b>, <b>watching anime</b>, or exploring cozy video game worlds 🎨🎮  
-And right beside me? 🐾 My little pup — my emotional support debugger and late-night coding buddy 💕  
-</p>
+---
 
-<hr style="border:none; height:2px; background:linear-gradient(90deg, #b3e0ff, #c8b6ff, #d4a7ff); width:70%;">
+## 🧩 Tech Stack  
+🐍 **Languages:** Python • JavaScript • C++  
+☁️ **Cloud & DevOps:** AWS • Terraform • Docker • Linux • CI/CD Pipelines  
+🧠 **Frameworks & Tools:** Flask • FastAPI • GitHub Actions • VS Code • Boto3  
+💾 **Other:** SQL • REST APIs • Scripting • Monitoring (CloudWatch)  
 
-<h3>🧩 Tech Stack</h3>
-<p>
-🐍 <b>Languages:</b> Python • JavaScript • C++ <br>
-☁️ <b>Cloud & DevOps:</b> AWS • Terraform • Docker • Linux • CI/CD Pipelines <br>
-🧠 <b>Frameworks & Tools:</b> Flask • FastAPI • GitHub Actions • VS Code • Boto3 <br>
-💾 <b>Other:</b> SQL • REST APIs • Scripting • Monitoring (CloudWatch)
-</p>
+---
 
-<hr style="border:none; height:2px; background:linear-gradient(90deg, #d4a7ff, #b3e0ff, #c8b6ff); width:70%;">
+## ☁️ Featured Projects  
+🚀 **Cloud Portfolio Generator** — Python-based tool that auto-deploys static portfolio sites using AWS S3 and CloudFront.  
+🧠 **Python Automation Suite** — Collection of Boto3 scripts that manage IAM roles, EC2 backups, and cloud cost reports.  
+📊 **Serverless Log Analyzer** — Processes AWS log data via Lambda + DynamoDB and outputs visual summaries with Matplotlib.  
+⚙️ **Flask Cloud API** — RESTful API that interacts with S3 buckets and EC2 resources using secure authentication.  
 
-<h3>☁️ Featured Projects</h3>
+---
 
-<p align="center">
-🚀 <b>Cloud Portfolio Generator</b> — Python-based tool that auto-deploys static portfolio sites using <b>S3</b> and <b>CloudFront</b>. <br><br>
-🧠 <b>Python Automation Suite</b> — Collection of Boto3 scripts that manage <b>IAM roles</b>, <b>EC2 backups</b>, and <b>cloud cost reports</b>. <br><br>
-📊 <b>Serverless Log Analyzer</b> — Processes AWS log data via <b>Lambda</b> + <b>DynamoDB</b> and outputs visual summaries with <b>Matplotlib</b>. <br><br>
-⚙️ <b>Flask Cloud API</b> — RESTful API that interacts with <b>S3</b> buckets and <b>EC2</b> resources using secure authentication. <br><br>
-</p>
+## 🎨 Creative Side  
+I love expressing creativity through **digital art** and **traditional art**.  
+My dream is to someday have my own **art gallery** and **art print business** as a side quest ✨  
 
-<hr style="border:none; height:2px; background:linear-gradient(90deg, #c8b6ff, #d4a7ff, #b3e0ff); width:70%;">
-
-<h3>🎨 &nbsp; Creative Side</h3>
-<p>
-I love expressing creativity through <b>digital art</b> and <b>anime-inspired UI designs</b>.  
-My dream is to someday build interactive worlds that blend <b>art, storytelling, and technology</b> — all powered by cloud systems ✨  
-</p>
-
-<h3>🐶 &nbsp; Meet My Pup!</h3>
-<p>
+🐶 **Meet My Pup!**  
 🐾 My coding sidekick, creative muse, and professional nap-timer 💕  
-She ensures all projects pass the “snack break” test ☕🌿  
-</p>
 
-<hr style="border:none; height:2px; background:linear-gradient(90deg, #b3e0ff, #c8b6ff, #d4a7ff); width:70%;">
+---
 
-<h3>💫 Fun Facts</h3>
-<p>
-💜 Favorite colors: Periwinkle • Lilac • Cloud Blue <br>
-🎧 I code best with lofi beats and Ghibli soundtracks <br>
-🎮 Favorite games: Genshin Impact • Stardew Valley • Journey <br>
-☕ Matcha > Coffee (fight me 😋)
-</p>
+## 💫 Fun Facts  
+💜 I love anime, manga, and webtoons  
+🎧 Currently learning piano  
+🎮 Obsessed with JRPGs  
+☕ Caffeine & pastry lover 🍰  
 
-<hr style="border:none; height:2px; background:linear-gradient(90deg, #c8b6ff, #d4a7ff, #b3e0ff); width:70%;">
+---
 
-<p><i>🌙 “Keep dreaming, keep building, and let your code reach the clouds.” 🌙</i></p>
+## 🌐 Connect With Me  
+💼 [**LinkedIn**](https://www.linkedin.com/in/simranagg)  
+📸 [**Instagram**](https://www.instagram.com/lost_remembrance)  
+
+---
+
+⭐️ *“Code with creativity. Build with purpose.”* 🌙  
 
 </div>
