@@ -1,42 +1,50 @@
 <div align="center">
 
-# 💜 Hello hello 💙  
-✨ I'm **Simran Aggarwal** — a **Python Developer**, **Cloud Enthusiast**, and **Creative Technologist** ✨  
-Blending code, creativity, and curiosity to design solutions that are as efficient as they are effective 🌙  
+<p align="center">
+  ☁️･ﾟ✧･ﾟ✧･ﾟ✧☁️･ﾟ✧･ﾟ✧･ﾟ✧☁️  
+</p>
+
+# 💜✨ Hello hello 💙☁️  
+🌙 I'm **Simran Aggarwal** — a **Python Developer**, **Cloud Enthusiast**, and **Creative Technologist** ✨  
+Blending code, creativity, and curiosity to design solutions that are as beautiful as they are efficient 💫  
+
+<p align="center">
+  ☁️･ﾟ✧･ﾟ✧･ﾟ✧☁️･ﾟ✧･ﾟ✧･ﾟ✧☁️  
+</p>
 
 ---
 
-## 🎓 About Me  
+## 💜･ﾟ✧ 🎓 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆 ✧･ﾟ💙  
 🎓 **A.S. in Computer Programming & Analysis** @ *Valencia College*  
 🎓 **B.A.S. in Computing Technology & Software Development** *(in progress)*  
 
 ☁️ **Aspiring Cloud & Software Engineer • Python Developer • Automation Enthusiast**  
 
-I’m passionate about building secure, scalable systems and using **Python** to make cloud infrastructure smarter, faster, and more fun ⚙️  
-My focus areas include **Python scripting**, **DevOps automation**, and **backend software development**.  
+I’m passionate about building **secure, scalable systems** and using **Python** to make cloud infrastructure smarter, faster, and more fun ⚙️  
+My focus areas include **Python scripting**, **DevOps automation**, and **backend software development** — the magical glue that keeps everything running smoothly 🌙  
 
 ---
 
-## 🧩 Tech Stack  
+## ☁️･ﾟ✧ 🧩 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌 ✧･ﾟ☁️  
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=swagger&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/AWS%20CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Python](https://img.shields.io/badge/Python-8A9BE2?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FDE68A?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-B19CD9?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-CABDFF?style=for-the-badge&logo=amazonaws&logoColor=black)
+![Terraform](https://img.shields.io/badge/Terraform-D9C2FF?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-B6C9FF?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FFF2B2?style=for-the-badge&logo=linux&logoColor=black)  
+![Flask](https://img.shields.io/badge/Flask-9BA4B5?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-A9E4D7?style=for-the-badge&logo=fastapi&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-C5C6FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-C3B1E1?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-9BA4B5?style=for-the-badge&logo=postgresql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-B0E0E6?style=for-the-badge&logo=swagger&logoColor=black)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-D6BCFA?style=for-the-badge&logo=amazonaws&logoColor=black)
 
 ---
 
-## ☁️ Featured Projects  
+## ✨･ﾟ☁️ Featured Projects ☁️･ﾟ✨  
 🚀 **Cloud Portfolio Generator** — Python-based tool that auto-deploys static portfolio sites using AWS S3 and CloudFront.  
 🧠 **Python Automation Suite** — Collection of Boto3 scripts that manage IAM roles, EC2 backups, and cloud cost reports.  
 📊 **Serverless Log Analyzer** — Processes AWS log data via Lambda + DynamoDB and outputs visual summaries with Matplotlib.  
@@ -44,7 +52,7 @@ My focus areas include **Python scripting**, **DevOps automation**, and **backen
 
 ---
 
-## 🎨 Creative Side  
+## 🎨･ﾟ✧ 𝑪𝒓𝒆𝒂𝒕𝒊𝒗𝒆 𝑺𝒊𝒅𝒆 ✧･ﾟ🎨  
 I love expressing creativity through **digital art** and **traditional art**.  
 My dream is to someday have my own **art gallery** and **art print business** as a side quest ✨  
 
@@ -52,17 +60,16 @@ My dream is to someday have my own **art gallery** and **art print business** as
   <img src="https://github.com/user-attachments/assets/60ba3a91-9632-4b1d-b397-057ea7f1ffd7" alt="my Art Gif" width="300">
 </p>
 
-
-
 🐶 **Meet My Pup!**  
 🐾 My coding sidekick, creative muse, and professional nap-timer 💕  
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/aafe4e2d-139c-41d6-b826-69dbe0a19243" alt="Image" width="400">
+  <img src="https://github.com/user-attachments/assets/aafe4e2d-139c-41d6-b826-69dbe0a19243" alt="My Pup" width="400">
 </p>
 
 ---
 
-## 💫 Fun Facts  
+## 💫･ﾟ✧ 𝑭𝒖𝒏 𝑭𝒂𝒄𝒕𝒔 ✧･ﾟ💫  
 💜 I love anime, manga, and webtoons  
 🎧 Currently learning piano  
 🎮 Obsessed with JRPGs  
@@ -70,15 +77,14 @@ My dream is to someday have my own **art gallery** and **art print business** as
 
 ---
 
-## 🌐 Connect With Me  
-<a href="https://www.linkedin.com/in/simran-aggarwal-aa1336376/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
-<a href="#"><img src="https://img.shields.io/badge/Grow-6DB33F?style=for-the-badge&logo=sap&logoColor=white"></a>  
-<a href="https://www.instagram.com/lost_remembrance"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>  
-
+## ☁️･ﾟ✧ 𝑪𝒐𝒏𝒏𝒆𝒄𝒕 𝑾𝒊𝒕𝒉 𝑴𝒆 ✧･ﾟ☁️  
+<a href="https://www.linkedin.com/in/simran-aggarwal-aa1336376/"><img src="https://img.shields.io/badge/LinkedIn-CABDFF?style=for-the-badge&logo=linkedin&logoColor=black"></a>  
+<a href="#"><img src="https://img.shields.io/badge/Grow-D9C2FF?style=for-the-badge&logo=sap&logoColor=black"></a>  
+<a href="https://www.instagram.com/lost_remembrance"><img src="https://img.shields.io/badge/Instagram-FBCFE8?style=for-the-badge&logo=instagram&logoColor=black"></a>  
 
 ---
 
-## 📊 GitHub Stats  
+## 🌙･ﾟ✧ 𝑮𝒊𝒕𝑯𝒖𝒃 𝑺𝒕𝒂𝒕𝒔 ✧･ﾟ🌙  
 
 ![Simran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saggarwal0&show_icons=true&theme=tokyonight&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saggarwal0&layout=compact&theme=tokyonight&hide_border=true)  
@@ -86,7 +92,16 @@ My dream is to someday have my own **art gallery** and **art print business** as
 
 ---
 
-⭐️ *“Code with creativity. Build with purpose.”* 🌙  
+<p align="center">
+  ☁️･ﾟ✧･ﾟ✧･ﾟ✧☁️･ﾟ✧･ﾟ✧･ﾟ✧☁️  
+</p>
+
+⭐️ *“Code with creativity. Build with purpose.”* ☁️💜  
+
+<p align="center">
+  ☁️･ﾟ✧･ﾟ✧･ﾟ✧☁️･ﾟ✧･ﾟ✧･ﾟ✧☁️  
+</p>
 
 </div>
+
 
