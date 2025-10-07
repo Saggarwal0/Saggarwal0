@@ -47,10 +47,14 @@ My focus areas include **Python scripting**, **DevOps automation**, and **backen
 ## 🎨 Creative Side  
 I love expressing creativity through **digital art** and **traditional art**.  
 My dream is to someday have my own **art gallery** and **art print business** as a side quest ✨  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/60ba3a91-9632-4b1d-b397-057ea7f1ffd7" alt="my Art Gif" width="150">
+</p>
+
 
 🐶 **Meet My Pup!**  
 🐾 My coding sidekick, creative muse, and professional nap-timer 💕  
-https://github.com/user-attachments/assets/ac45b193-03d3-4a34-8a60-a06043a9d15e
+
 ---
 
 ## 💫 Fun Facts  
