@@ -54,6 +54,9 @@ My dream is to someday have my own **art gallery** and **art print business** as
 
 🐶 **Meet My Pup!**  
 🐾 My coding sidekick, creative muse, and professional nap-timer 💕  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/aafe4e2d-139c-41d6-b826-69dbe0a19243" alt="Image" width="400">
+</p>
 
 ---
 
