@@ -62,7 +62,6 @@ My dream is to someday have my own **art gallery** and **art print business** as
 ---
 
 ## 🌐 Connect With Me  
-## 🌐 Connect With Me  
 <a href="https://www.linkedin.com/in/simran-aggarwal-aa1336376/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
 <a href="#"><img src="https://img.shields.io/badge/Grow-6DB33F?style=for-the-badge&logo=sap&logoColor=white"></a>  
 <a href="https://www.instagram.com/lost_remembrance"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>  
