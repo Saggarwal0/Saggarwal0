@@ -5,7 +5,7 @@
 </p>
 
 # 💜✨ Hello hello 💙☁️  
-🌙 I'm **Simran Aggarwal** — a **Python Developer**, **Cloud Enthusiast**, and **Creative Technologist** ✨  
+🌙 I'm **Simran Aggarwal**  a **Python Developer**, **Cloud Enthusiast**, and **Creative Technologist** ✨  
 Blending code, creativity, and curiosity to design solutions that are as beautiful as they are efficient 💫  
 
 <p align="center">
