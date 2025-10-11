@@ -75,6 +75,7 @@ My dream is to someday have my own **art gallery** and **art print business** as
 🎮 Obsessed with JRPGs  
 ☕ Caffeine & pastry lover 🍰  
 
+![Image](https://github.com/user-attachments/assets/62eb9907-0f41-46e1-9b21-2b4f0370c916)
 ---
 
 ## ☁️･ﾟ✧ 𝑪𝒐𝒏𝒏𝒆𝒄𝒕 𝑾𝒊𝒕𝒉 𝑴𝒆 ✧･ﾟ☁️  
