@@ -35,7 +35,7 @@ My focus areas include **Python scripting**, **DevOps automation**, and **backen
 ![Docker](https://img.shields.io/badge/Docker-B6C9FF?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FFF2B2?style=for-the-badge&logo=linux&logoColor=black)  
 ![Flask](https://img.shields.io/badge/Flask-9BA4B5?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-A9E4D7?style=for-the-badge&logo=fastapi&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-A9E4D7?style=for-the-badge&logo=fastapi&logoColor=white)  
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-C5C6FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-C3B1E1?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-9BA4B5?style=for-the-badge&logo=postgresql&logoColor=white)
