@@ -10,7 +10,7 @@ Blending code, creativity, and curiosity to design solutions that are as beautif
 
 <p align="center">
   ☁️･ﾟ✧･ﾟ✧･ﾟ✧☁️･ﾟ✧･ﾟ✧･ﾟ✧☁️  
-</p>
+</p>       
 
 ---
 
