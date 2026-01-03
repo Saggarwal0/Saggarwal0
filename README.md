@@ -23,7 +23,7 @@ Blending code, creativity, and curiosity to design solutions that are as beautif
 I’m passionate about building **secure, scalable systems** and using **Python** to make cloud infrastructure smarter, faster, and more fun ⚙️  
 My focus areas include **Python scripting**, **DevOps automation**, and **backend software development** — the magical glue that keeps everything running smoothly 🌙  
 
----
+---     
 
 ## ☁️･ﾟ✧ 🧩 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌 ✧･ﾟ☁️  
 
