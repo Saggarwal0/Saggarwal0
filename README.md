@@ -12,7 +12,7 @@ Blending code, creativity, and curiosity to design solutions that are as beautif
   ☁️･ﾟ✧･ﾟ✧･ﾟ✧☁️･ﾟ✧･ﾟ✧･ﾟ✧☁️  
 </p>       
 
----
+---        
 
 ## 💜･ﾟ✧ 🎓 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆 ✧･ﾟ💙  
 🎓 **A.S. in Computer Programming & Analysis** @ *Valencia College*  
