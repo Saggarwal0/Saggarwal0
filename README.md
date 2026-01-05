@@ -6,7 +6,7 @@
 
 # 💜✨ Hello hello 💙☁️  
 🌙 I'm **Simran Aggarwal**  a **Python Developer**, **Cloud Enthusiast**, and **Creative Technologist** ✨  
-Blending code, creativity, and curiosity to design solutions that are as beautiful as they are efficient 💫  
+Blending code, creativity, and curiosity to design solutions that are as beautiful as they are efficient 💫
 
 <p align="center">
   ☁️･ﾟ✧･ﾟ✧･ﾟ✧☁️･ﾟ✧･ﾟ✧･ﾟ✧☁️  
